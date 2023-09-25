@@ -1,1 +1,27 @@
 /*  your css code here. If applicable */
+#Box-1 {
+	background-color: #f5f5f5;
+	width: 500px;
+	height: 350px;
+}
+h1 {
+	padding: 10px;
+}
+.T {
+ background-color: white;
+ border: 1px solid gray;
+ width: 450px;
+justify-content: space-between;
+	
+	
+}
+.Author {
+	text-align: right;
+	font-style: italic;
+	padding: 1px;
+	padding-right: 2px;
+}
+.Testimonial_1 {
+	text-align: center;
+	padding: 1px;
+}
